@@ -3,7 +3,7 @@
 
 ## Current Tasking
 - Deciding between Gentoo or Arch
-- Research LInux kernel and arch fundamentals
+- Research Linux kernel and arch fundamentals
 	- AUR, Arch Wiki, 
 	- sysVinit vs systemd
 	- pacman, AUR helpers, wrappers, manual Build Process
