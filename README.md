@@ -6,7 +6,7 @@
 - Research LInux kernel and arch fundamentals
 	- AUR, Arch Wiki, 
 	- sysVinit vs systemd
-	- pacman
+	- pacman, AUR helpers, wrappers, manual Build Process
 - Deciding repo organization
 	- Use of .md files
 	- How to do branching? (branch per person? branch per concept?)
