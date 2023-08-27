@@ -9,4 +9,6 @@
 	- pacman, AUR helpers, wrappers, manual Build Process
 - Deciding repo organization
 	- Use of .md files
-	- How to do branching? (branch per person? branch per concept?)
+- Branching will be done in 2 parts:
+	1. **Research Phase**: Branch per person.
+	2. **Build Phase**: Branch per concept/Task.
