@@ -1,7 +1,7 @@
 # Arch-Indictment
 **Overall Goals**: Learning more about Linux and Operating Systems by building arch.
 
-## Current Tasking
+## Current Tasking - 8/27/23
 - Deciding between Gentoo or Arch
 - Research Linux kernel and arch fundamentals
 	- AUR, Arch Wiki, 
